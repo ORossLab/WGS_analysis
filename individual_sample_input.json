@@ -1,0 +1,19 @@
+{
+  "individual_analysis.sample_info": {
+    "sample_id": "SAMPLE_001",
+    "ubam": "/path/to/sample_ubam.bam",
+    "sex": "MALE or FEMALE"
+  },
+  "individual_analysis.reference_data": {
+    "reference": "/path/to/reference.fasta",
+    "reference_index_path": "/path/to/reference.fasta.fai",
+    "reference_id": "GRCh38",
+
+    "exclude_bed": "/path/to/exclude.bed",
+    "exclude_bed_index": "/path/to/exclude.bed.bai",
+    "expected_bed_male": "/path/to/expected_male.bed",
+    "expected_bed_female": "/path/to/expected_female.bed",
+
+    "tandem_repeat_bed": "/path/to/tandem_repeat.bed"
+  }
+}

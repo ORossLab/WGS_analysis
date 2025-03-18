@@ -1,0 +1,22 @@
+{
+  "individual_sample_analysis.sample_info": {
+    "sample_id": "1006-1",
+    "ubam": "/research/labs/neurology/oar01/m301955/my_projects/Genome_Assembly/UM_stroke/ubams/analyzed/1006-1.bam",
+    "fastq": "/research/labs/neurology/oar01/m301955/my_projects/Genome_Assembly/UM_stroke/fastq/1006-1.hifi_reads.fastq.gz",
+    "sex": "MALE"
+  },
+  "individual_sample_analysis.reference_data": {
+    "reference": "/research/labs/neurology/oar01/m301955/Reference_data/GRCh38_GIABv3_no_alt_analysis_set_maskedGRC_decoys_MAP2K3_KMT2C_KCNJ18.fasta",
+    "reference_index": "/research/labs/neurology/oar01/m301955/Reference_data/GRCh38_GIABv3_no_alt_analysis_set_maskedGRC_decoys_MAP2K3_KMT2C_KCNJ18.fasta.fai",
+    "REF_PATH_DIR": "/research/labs/neurology/oar01/m301955/Reference_data",
+    "reference_id": "GRCh38",
+    "exclude_bed": "/research/labs/neurology/oar01/m301955/Reference_data/HiFiCNV-0.1.6b/data/excluded_regions/cnv.excluded_regions.hg38.bed.gz",
+    "exclude_bed_index": "/research/labs/neurology/oar01/m301955/Reference_data/HiFiCNV-0.1.6b/data/excluded_regions/cnv.excluded_regions.hg38.bed.gz.tbi",
+    "expected_bed_male": "/research/labs/neurology/oar01/m301955/Reference_data/HiFiCNV-0.1.6b/data/expected_cn/male_expected_cn.hg38.bed",
+    "expected_bed_female": "/research/labs/neurology/oar01/m301955/Reference_data/HiFiCNV-0.1.6b/data/expected_cn/female_expected_cn.hg38.bed",
+    "tandem_repeat_bed": "/research/labs/neurology/oar01/m301955/tools/trgt/repeats/polymorphic_repeats.hg38.bed"
+  },
+  "individual_sample_analysis.paths": {
+    "script_path": "/research/labs/neurology/oar01/m301955/my_projects/Genome_Assembly/WGS_workflow_runs/WGS_analysis_pipeline/script"
+  }
+}

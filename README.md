@@ -1,0 +1,1 @@
+This repository stores the scripts of the WGS automated pipeline analysis
